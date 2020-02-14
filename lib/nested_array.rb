@@ -27,7 +27,7 @@ end
 
 def matrix_lookup(matrix, row, column)
 produce_storage_room = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
-return produce_storage_room[1][1]
+return produce_storage_room[][]
 end
 
 def matrix_update(matrix, row, column, new_value)
